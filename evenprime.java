@@ -25,7 +25,7 @@ public class evenprime {
 	public void prime(int prime) {
 		
 Scanner sc=new Scanner(System.in);
-System.out.println("enter No :");
+System.out.println("Enter No :");
 		
 		int num=sc.nextInt();
 		  
