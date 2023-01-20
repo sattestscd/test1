@@ -40,8 +40,8 @@ System.out.println("Enter No :");
 		      }
 		    }
 		    if (temp==0)
-		      System.out.println(num + " is a prime number.");
+		      System.out.println(num + " is a Prime number.");
 		    else
-		      System.out.println(num + " is not a prime number.");
+		      System.out.println(num + " is not a Prime number.");
 	}
 }
